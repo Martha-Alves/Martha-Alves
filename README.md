@@ -13,7 +13,7 @@
   
 ##  
 
-<div> 
+<div > 
   <a href="https://www.linkedin.com/in/martha-alves-74b296240/" target="_blank" rel="external"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
   <a href = "mailto:infomarthacaroline@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
 </div>
@@ -23,7 +23,26 @@
 <h2 align="center">Veja meus principais projetos de HTML5 e CSS3</h2>
 
 <p align="center"> Observação: Esses projetos são desafios que o curso de HTML5 e CSS3 do CursoEmVideo propôs:<p/>
-<div align="center">
-🤖 <a href="https://martha-alves.github.io/html-css/Desafios-CursoEmVideo/1-Android/" target="_blank" rel="external">Uma matéria sobre o mascote do Android</a>
-🎊 <a href="https://martha-alves.github.io/html-css/Desafios-CursoEmVideo/2-Cordel/" target="_blank" rel="external">Projeto cordel, um poema de Milton Duarte</a>
-📱 <a href="https://martha-alves.github.io/html-css/Desafios-CursoEmVideo/3-Redes-sociais/" target="_blank" rel="external">Site com redes sociais do CursoemVideo</a></div>
+
+<div style="display: inline_block">
+ <img align="center" alt="Smartphone" height="150em" src="https://cdn-icons-png.flaticon.com/512/4151/4151857.png">
+ <a style="display: inline_block padding:100px;" href="https://martha-alves.github.io/html-css/Desafios-CursoEmVideo/3-Redes-sociais/" target="_blank" rel="external">Redes sociais do CursoEmVideo</a>
+</div>
+
+ ##
+ 
+<div style="display: inline_block">
+ <img align="center" alt="Símbolo do Android" height="150em" src="https://cdn-icons-png.flaticon.com/512/536/536437.png">
+ <a href="https://martha-alves.github.io/html-css/Desafios-CursoEmVideo/1-Android/" target="_blank" rel="external">A história do icone do Android</a>
+</div>
+
+ ##
+ 
+<div style="display: inline_block">
+ <img align="center" alt="Mão escrevendo" height="150em" src="https://cdn-icons-png.flaticon.com/512/3271/3271154.png">
+ <a href="https://martha-alves.github.io/html-css/Desafios-CursoEmVideo/2-Cordel/" target="_blank" rel="external">Projeto Cordel: Um poema de Milton Duarte.</a> 
+</div>
+<div style="display: inline_block"> 
+ 
+
+
