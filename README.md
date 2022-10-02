@@ -45,9 +45,14 @@
  
  ##
  
- <footer>
- <div align="center">
- <h6>Área de direitos autorais: <a href="https://www.flaticon.com/br/icones-gratis/smartphone" title="smartphone ícones">Smartphone ícones criados por Freepik - Flaticon</a> <a href="https://www.flaticon.com/br/icones-gratis/androide" title="andróide ícones">Andróide ícones criados por Roundicons Premium - Flaticon</a></h6>
- <div>
- </footer>
+
+
+ <h6 align="center">Área de direitos autorais:</h6>
+ 
+ ©️<a href="https://www.flaticon.com/br/icones-gratis/smartphone" title="smartphone ícones">Smartphone ícones criados por Freepik - Flaticon</a> 
+ 
+ ©️<a href="https://www.flaticon.com/br/icones-gratis/androide" title="andróide ícones">Andróide ícones criados por Roundicons Premium - Flaticon</a>
+ 
+ ©️<a href="https://www.flaticon.com/br/icones-gratis/escreva" title="escreva ícones">Escreva ícones criados por Freepik - Flaticon</a>
+
 
