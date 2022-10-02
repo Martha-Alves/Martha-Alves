@@ -17,3 +17,15 @@
   <a href="https://www.linkedin.com/in/martha-alves-74b296240/" target="_blank" rel="external"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
   <a href = "mailto:infomarthacaroline@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
 </div>
+
+  ##
+  
+<h2>Veja meus principais projetos de HTML5 e CSS3</h2>
+
+<p> Observação: Esses projetos são desafios que o curso de HTML5 e CSS3 do CursoEmVideo propôs:<p/>
+
+🤖 <a href="https://martha-alves.github.io/html-css/Desafios-CursoEmVideo/1-Android/" target="_blank" rel="external">Uma matéria sobre o mascote do Android</a>
+
+🎊 <a href="https://martha-alves.github.io/html-css/Desafios-CursoEmVideo/2-Cordel/" target="_blank" rel="external">Projeto cordel, um poema de Milton Duarte</a>
+
+📱 <a href="https://martha-alves.github.io/html-css/Desafios-CursoEmVideo/3-Redes-sociais/" target="_blank" rel="external">Site com redes sociais do CursoemVideo</a>
