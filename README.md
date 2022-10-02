@@ -41,8 +41,13 @@
 <div style="display: inline_block">
  <img align="center" alt="Mão escrevendo" height="150em" src="https://cdn-icons-png.flaticon.com/512/3271/3271154.png">
  <a href="https://martha-alves.github.io/html-css/Desafios-CursoEmVideo/2-Cordel/" target="_blank" rel="external">Projeto Cordel: Um poema de Milton Duarte.</a> 
-</div>
-<div style="display: inline_block"> 
+</div> 
  
-
+ ##
+ 
+ <footer>
+ <div align="center">
+ <h6>Área de direitos autorais: <a href="https://www.flaticon.com/br/icones-gratis/smartphone" title="smartphone ícones">Smartphone ícones criados por Freepik - Flaticon</a> <a href="https://www.flaticon.com/br/icones-gratis/androide" title="andróide ícones">Andróide ícones criados por Roundicons Premium - Flaticon</a></h6>
+ <div>
+ </footer>
 
