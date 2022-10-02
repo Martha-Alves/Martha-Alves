@@ -1,4 +1,4 @@
-### Olá, eu sou a Martha👋
+### <h1 align="center">Olá, eu sou a Martha</h1>
 
 <div align="center">
   <a href="https://github.com/martha-alves">
@@ -20,12 +20,10 @@
 
   ##
   
-<h2>Veja meus principais projetos de HTML5 e CSS3</h2>
+<h2 align="center">Veja meus principais projetos de HTML5 e CSS3</h2>
 
-<p> Observação: Esses projetos são desafios que o curso de HTML5 e CSS3 do CursoEmVideo propôs:<p/>
-
+<p align="center"> Observação: Esses projetos são desafios que o curso de HTML5 e CSS3 do CursoEmVideo propôs:<p/>
+<div align="center">
 🤖 <a href="https://martha-alves.github.io/html-css/Desafios-CursoEmVideo/1-Android/" target="_blank" rel="external">Uma matéria sobre o mascote do Android</a>
-
 🎊 <a href="https://martha-alves.github.io/html-css/Desafios-CursoEmVideo/2-Cordel/" target="_blank" rel="external">Projeto cordel, um poema de Milton Duarte</a>
-
-📱 <a href="https://martha-alves.github.io/html-css/Desafios-CursoEmVideo/3-Redes-sociais/" target="_blank" rel="external">Site com redes sociais do CursoemVideo</a>
+📱 <a href="https://martha-alves.github.io/html-css/Desafios-CursoEmVideo/3-Redes-sociais/" target="_blank" rel="external">Site com redes sociais do CursoemVideo</a></div>
