@@ -22,7 +22,7 @@
   
 <h2 align="center">Veja meus principais projetos de HTML5 e CSS3</h2>
 
-<p align="center"> Observação: Esses projetos são desafios que o curso de HTML5 e CSS3 do CursoEmVideo propôs:<p/>
+<p align="center"> Observação: Esses projetos são desafios que o curso de HTML5 e CSS3 do CursoEmVideo propôs<p/>
 
 <div style="display: inline_block">
  <img align="center" alt="Smartphone" height="150em" src="https://cdn-icons-png.flaticon.com/512/4151/4151857.png">
