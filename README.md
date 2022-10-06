@@ -25,21 +25,28 @@
 <p align="center"> Observação: Esses projetos são desafios que o curso de HTML5 e CSS3 do CursoEmVideo propôs<p/>
 
 <div style="display: inline_block">
- <img align="center" alt="Smartphone" height="150em" src="https://cdn-icons-png.flaticon.com/512/4151/4151857.png">
+ <img align="center" alt="Tela de login" height="140em" src="https://cdn-icons-png.flaticon.com/512/7438/7438429.png">
+  <a href="https://martha-alves.github.io/html-css/Desafios-CursoEmVideo/4-Login/" target="_blank" rel="external">Primeiro projeto mobile first: Tela de login.</a>
+</div>
+
+  ##
+  
+<div style="display: inline_block">
+ <img align="center" alt="Smartphone" height="140em" src="https://cdn-icons-png.flaticon.com/512/4151/4151857.png">
  <a style="display: inline_block padding:100px;" href="https://martha-alves.github.io/html-css/Desafios-CursoEmVideo/3-Redes-sociais/" target="_blank" rel="external">Redes sociais do CursoEmVideo</a>
 </div>
 
  ##
  
 <div style="display: inline_block">
- <img align="center" alt="Símbolo do Android" height="150em" src="https://cdn-icons-png.flaticon.com/512/536/536437.png">
+ <img align="center" alt="Símbolo do Android" height="140em" src="https://cdn-icons-png.flaticon.com/512/536/536437.png">
  <a href="https://martha-alves.github.io/html-css/Desafios-CursoEmVideo/1-Android/" target="_blank" rel="external">A história do icone do Android</a>
 </div>
 
  ##
  
 <div style="display: inline_block">
- <img align="center" alt="Mão escrevendo" height="150em" src="https://cdn-icons-png.flaticon.com/512/3271/3271154.png">
+ <img align="center" alt="Mão escrevendo" height="140em" src="https://cdn-icons-png.flaticon.com/512/3271/3271154.png">
   <a href="https://martha-alves.github.io/html-css/Desafios-CursoEmVideo/2-Cordel/" target="_blank" rel="external">Projeto Cordel: Um poema de Milton Duarte</a>
 </div> 
  
@@ -48,6 +55,8 @@
 
 
  <h6 align="center">Área de direitos autorais:</h6>
+ 
+ ©️<a href="https://www.flaticon.com/br/icones-gratis/senha" title="senha ícones">Senha ícones criados por Freepik - Flaticon</a>
  
  ©️<a href="https://www.flaticon.com/br/icones-gratis/smartphone" title="smartphone ícones">Smartphone ícones criados por Freepik - Flaticon</a> 
  
