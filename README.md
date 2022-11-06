@@ -1,11 +1,4 @@
-### <h1 align="center">Olá, eu sou a Martha</h1>
-<p>Embora nunca tenha trabalhado profissionalmente na área de tecnologia, já estou me inserindo na área através de cursos e projetos. Sou graduanda de Análise e Desenvolvimento de Sistemas no centro universitário IBMR e possuo conhecimento em lógica de programação, HTML5, CSS3, JavaScript e pacote office. Tenho inglês básico para escrita, conversação e leitura.</p>
 
-<div style="display: inline_block"><br>
-  <img align="center" alt="Martha-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
-  <img align="center" alt="Martha-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
-  <img align="center" alt="Martha-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
-  
 ##  
 
 <div > 
