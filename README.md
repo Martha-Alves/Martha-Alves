@@ -72,5 +72,7 @@
  ©️<a href="https://www.flaticon.com/br/icones-gratis/androide" title="andróide ícones">Andróide ícones criados por Roundicons Premium - Flaticon</a>
  
  ©️<a href="https://www.flaticon.com/br/icones-gratis/escreva" title="escreva ícones">Escreva ícones criados por Freepik - Flaticon</a>
+  
+ ©️<a href="https://www.flaticon.com/br/icones-gratis/formato" title="formato ícones">Formato ícones criados por Eucalyp - Flaticon</a>
 
 
