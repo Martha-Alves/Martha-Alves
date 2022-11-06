@@ -1,13 +1,4 @@
-
-##  
-
-<div > 
-  <a href="https://www.linkedin.com/in/martha-alves-74b296240/" target="_blank" rel="external"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
-  <a href = "mailto:infomarthacaroline@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
-</div>
-
-  ##
-  
+ 
 <h2 align="center">Veja meus principais projetos de HTML5 e CSS3</h2>
 
 <p align="center"> Observação: Esses projetos são minhas versões dos desafios que o curso de design responsivo para web do freeCodeCamp propôs<p/>
