@@ -1,10 +1,5 @@
 ### <h1 align="center">Olá, eu sou a Martha</h1>
-
-<div align="center">
-  <a href="https://github.com/martha-alves">
-  <img height="150em" src="https://github-readme-stats.vercel.app/api?username=martha-alves&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
-  <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=martha-alves&layout=compact&langs_count=7&theme=dracula"/>
-</div>
+<p>Embora nunca tenha trabalhado profissionalmente na área de tecnologia, já estou me inserindo na área através de cursos e projetos. Sou graduanda de Análise e Desenvolvimento de Sistemas no centro universitário IBMR e possuo conhecimento em lógica de programação, HTML5, CSS3, JavaScript e pacote office. Tenho inglês básico para escrita, conversação e leitura.</p>
 
 <div style="display: inline_block"><br>
   <img align="center" alt="Martha-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
