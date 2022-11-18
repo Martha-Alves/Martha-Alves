@@ -17,6 +17,13 @@
 ##  
   
  <div style="display: inline_block">
+ <img align="center" alt="Pintura" height="140em" src="https://cdn-icons-png.flaticon.com/512/1651/1651671.png">
+  <a href="https://martha-alves.github.io/html-css/Desafios-freeCodeCamp/3-pintura-uturu-com-css/" target="_blank" rel="external">Pintura  Uturu, da Tarsila do Amaral, feita em css.</a>
+</div>  
+
+##  
+  
+ <div style="display: inline_block">
  <img align="center" alt="Tela de login" height="140em" src="https://cdn-icons-png.flaticon.com/512/4098/4098636.png">
   <a href="https://martha-alves.github.io/html-css/Desafios-freeCodeCamp/2-pagina-de-tributo/" target="_blank" rel="external">Página de tributo.</a>
 </div>  
