@@ -68,4 +68,5 @@
  ©️<a href="https://www.flaticon.com/br/icones-gratis/formato" title="formato ícones">Formato ícones criados por Eucalyp - Flaticon</a>
   
  ©️<a href="https://www.flaticon.com/br/icones-gratis/funeral" title="funeral ícones">Funeral ícones criados por Eucalyp - Flaticon</a>
-
+ 
+ ©️<a href="https://www.flaticon.com/free-icons/paint" title="paint icons">Paint icons created by Freepik - Flaticon</a>
