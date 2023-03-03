@@ -1,6 +1,12 @@
 <h2 align="center">Veja meus principais projetos de JavaScript</h2> 
 
 <div style="display: inline_block">
+ <img align="center" alt="monitor" height="140em" src="https://cdn-icons-png.flaticon.com/512/2742/2742414.png">
+  <a href="https://github.com/Martha-Alves/verificador-de-palindromo" target="_blank" rel="external">Verificador de Palíndromo.</a>
+</div>
+
+
+<div style="display: inline_block">
  <img align="center" alt="monitor" height="140em" src="https://cdn-icons-png.flaticon.com/512/901/901020.png">
   <a href="https://github.com/Martha-Alves/Algoritmos-Intermediarios/blob/main/17-tradutor-de-binario/binario.js" target="_blank" rel="external">Tradutor de código Binário.</a>
 </div>
