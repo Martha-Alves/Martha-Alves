@@ -5,6 +5,11 @@
   <a href="https://github.com/Martha-Alves/Algoritmos-Intermediarios/blob/main/17-tradutor-de-binario/binario.js" target="_blank" rel="external">Tradutor de código Binário.</a>
 </div>
 
+<div style="display: inline_block">
+ <img align="center" alt="termometro" height="140em" src="https://cdn-icons-png.flaticon.com/512/2387/2387835.png">
+  <a href="https://github.com/Martha-Alves/Conversor-De-Temperatura/blob/main/Conversor-de-temperatura.js" target="_blank" rel="external">Conversor de temperatura.</a>
+</div>
+
 <h2 align="center">Veja meus principais projetos de HTML5 e CSS3</h2>
 
 
